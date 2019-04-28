@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "718329856058",
+    "firebase_url": "https://whisipp.firebaseio.com",
+    "project_id": "whisipp",
+    "storage_bucket": "whisipp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718329856058:android:e815ee3e2e75a4d2",
+        "android_client_info": {
+          "package_name": "com.example.hecto.whisipp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718329856058-rmh7k8b51h1kogbh6fnh04dj9r7qv3re.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hecto.whisipp",
+            "certificate_hash": "8bf775f558fbb2c958541989a922a6a6953a59c3"
+          }
+        },
+        {
+          "client_id": "718329856058-k84q7ur6hfhvvm6h8corpq77s77e74fa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkKiwEWFTQGbkyHwLMzkBn1TClXxmTYhA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718329856058-gtsk6idp89la2ri97p4lpj8dpnkkju2o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
